@@ -1,0 +1,17 @@
+{
+  "name": "clientdb",
+  "version": "1.0.0",
+  "description": "FSD Course-end Project for Designing and Managing Databases with MongoDB (and MySQL)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "mysql2": "^3.15.0"
+  }
+}
